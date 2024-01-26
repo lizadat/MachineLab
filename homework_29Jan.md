@@ -16,12 +16,14 @@ The example of how to build your own clock mechanism and for a better undertsand
 
 ### The NK Christmas Window Display
 When I visited Stockholm, Sweden on Christmas I came across a mall, which had a fascinating window display. Obviously it was Christams themed and many people were standing there and watching, this was actually how I noticed there was something:). So it turned out that every window told a story about the same characters, but in different scenes. What made it interactive were the moving objects, characters. The movements were super simple, just rotating or goinf up and down, but it seemed like people really liked it. I think it has a clear connection to our class, because this is what we are planning to do. I think this project was amazing and it is something that we are planning to do, but in real life.
-The video of the displays can be found [here](https://www.youtube.com/watch?v=DhDDSYT8NCY&t=282s&ab_channel=Travelandwalks) 
+The video of the displays can be found [here](https://www.youtube.com/watch?v=DhDDSYT8NCY&t=282s&ab_channel=Travelandwalks). The display starts from 2nd minute.
 ![image](https://github.com/lizadat/MachineLab/assets/98390904/f1f8e531-a896-4c55-8865-5a2d78664e5c)
 
 
-### A clock mechanis
-
+### A flying robot penguin (aerial robot)
+Again talking from my own experience. I was amazed by the flying robot penguin which I saw in the Museum of the Future in Dubai. When I first saw it I could not believe my eyes, it seemed to be unreal which invlolved a lot of physics. First is did not have any wires and even propellers, it was just floating on its own. It seemed to be smart, knowing where to go, how to not crash the walls or people. I think it will be interesting to look at in our class because I think there is a lot of things such as sensors, mechanisms hiding inside. 
+The video of this flying robot can be accessed [here](https://www.youtube.com/watch?app=desktop&v=EwuUxH6sPjQ&ab_channel=Pal%C3%A1nkai%C3%A9k).
+![image](https://github.com/lizadat/MachineLab/assets/98390904/213928a3-0861-4338-a9e0-c0002ec4f73b)
 
 
 ### A clock mechanism
@@ -30,8 +32,3 @@ The video of the displays can be found [here](https://www.youtube.com/watch?v=Dh
 
 ### A clock mechanism
 
-
-
-> Text that is a quote
-
-This site was built using [GitHub Pages](https://pages.github.com/).

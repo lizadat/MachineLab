@@ -10,6 +10,7 @@ In the file "homework_29Jan" propose 5 possible topics to research for this cour
 ### A clock mechanism
 The first research area that I though of is the mechanism of a clock. First of all it is because we are to work with a clock. Secondly, it is a super popular mechanism that we use every day, but never give a thought how it works, how does it run eternally without batteries, just winding? I really enjoy wearing the watches but I could not even imagine how complicated, precise and meticulous it is. This mechanism has a long story which dates back to the 17th century which started with a pendulum clock by a Dutch polymath. 
 The example of how to build your own clock mechanism and for a better undertsanding of how it works can be found here. [YouTube Link](https://www.youtube.com/watch?v=3WCw0Flpqiw&ab_channel=MakingTricks).
+![Alt text]([image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DydIzeY70dpI&psig=AOvVaw2kOWkX_QLa-KdiEcltx-lz&ust=1706345552975000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD5ydbW-oMDFQAAAAAdAAAAABAH))
 
 
 ### The NK Christmas Window Display

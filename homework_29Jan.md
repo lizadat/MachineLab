@@ -15,7 +15,8 @@ The example of how to build your own clock mechanism and for a better undertsand
 ### The NK Christmas Window Display
 When I visited Stockholm, Sweden on Christmas I came across a mall, which had a fascinating window display. Obviously it was Christams themed and many people were standing there and watching, this was actually how I noticed there was something:). So it turned out that every window told a story about the same characters, but in different scenes. What made it interactive were the moving objects, characters. The movements were super simple, just rotating or goinf up and down, but it seemed like people really liked it. I think it has a clear connection to our class, because this is what we are planning to do. I think this project was amazing and it is something that we are planning to do, but in real life.
 The video of the displays can be found [here](https://www.youtube.com/watch?v=DhDDSYT8NCY&t=282s&ab_channel=Travelandwalks) 
-![Image Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visitstockholm.com%2Fevents%2Fnk-christmas-window-display%2F2024-01-06%2F&psig=AOvVaw2kOWkX_QLa-KdiEcltx-lz&ust=1706345552975000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD5ydbW-oMDFQAAAAAdAAAAABAX)
+![image](https://github.com/lizadat/MachineLab/assets/98390904/f1f8e531-a896-4c55-8865-5a2d78664e5c)
+
 
 ### A clock mechanis
 

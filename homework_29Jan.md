@@ -12,7 +12,9 @@ The first research area that I though of is the mechanism of a clock. First of a
 The example of how to build your own clock mechanism and for a better undertsanding of how it works can be found here. [YouTube Link](https://www.youtube.com/watch?v=3WCw0Flpqiw&ab_channel=MakingTricks).
 
 
-### A clock mechanism
+### The NK Christmas Window Display
+When I visited Stockholm, Sweden on Christmas I came across a mall, which had a fascinating window display. Obviously it was Christams themed and many people were standing there and watching, this was actually how I noticed there was something:). So it turned out that every window told a story about the same characters, but in different scenes. What made it interactive were the moving objects, characters. The movements were super simple, just rotating or goinf up and down, but it seemed like people really liked it. I think it has a clear connection to our class, because this is what we are planning to do. I think this project was amazing and it is something that we are planning to do, but in real life.
+The video of the displays can be found [here](https://www.youtube.com/watch?v=DhDDSYT8NCY&t=282s&ab_channel=Travelandwalks) 
 
 
 

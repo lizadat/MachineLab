@@ -3,7 +3,6 @@
 ### - The future (we can each create a part how we imagine the world will be in a couple of years, some fantasy)
 ### - Parts of the world (As we are from different countries we can collaborate to recreate each continent of the earth) 
 
-In the file "homework_29Jan" propose 5 possible topics to research for this course. Topics can include authors, inventors, artists, machines, projects, locations, etc. Write a sentence about why you feel this topic belongs, and provide at least one link to some further information about it. You do not need to commit to researching any one of these topics; you may pick something else, and someone else may pick one of yours
 
 ## Research topics
 
@@ -33,5 +32,9 @@ Following my previous topic, I found an agency who specializes into creating the
 
 
 
-### A clock mechanism
+### 3D materials
+As we will be building the physical object and they have to be stable and last for long, the great idea will be to use the 3D printing for some parts. However, even 3D printed objects might be fragile, so the choice of materials should be taken into consideration even more importanly. I think the research in 3D printing material will be a good topic to cover if we plan to use it. So far I found the information about the ABS, PLA, Nylon etc, but there are more and each of them have a specific usage. 
+A short article on the 3D modeling and materials overview can be found [here](https://formlabs.com/blog/3d-printing-materials/). 
+![image](https://github.com/lizadat/MachineLab/assets/98390904/bbedb70e-2409-4780-9677-57a3c45a17b0)
+
 

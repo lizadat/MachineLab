@@ -26,7 +26,10 @@ The video of this flying robot can be accessed [here](https://www.youtube.com/wa
 ![image](https://github.com/lizadat/MachineLab/assets/98390904/213928a3-0861-4338-a9e0-c0002ec4f73b)
 
 
-### A clock mechanism
+### FormRoom: commercial interior design agency
+Following my previous topic, I found an agency who specializes into creating the window displays, interiors for caffes and stores. Even though it looks like it has nothing to do with our class, but it does! We can look at their work and analyze it: their work attracts passer's-by attention and that is what we will also be working on. We want to think about the whole look of our cloock and how all our details have something in common. The FormRoom agency has a number of project which can be a good reference for us. 
+[Agency's Website](https://formroom.com/project_cat/windows/)
+<img width="631" alt="Screenshot 2024-01-26 at 11 39 54" src="https://github.com/lizadat/MachineLab/assets/98390904/4f6aaa71-4c21-42a0-bfe7-15c6297ca18a">
 
 
 

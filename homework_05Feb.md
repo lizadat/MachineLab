@@ -5,7 +5,17 @@ I really liked all the proposed ideas for our clock project! All of them seem to
  Markup : - This will be the topic that all the students can relate to; 
           - There is a place for creativity, we can work collaboratively to think and reflect on our own experiences
           - If there are 4 parts it can be 4 years and each year is truly different (arrival, study away, capstone, stress etc)
- 
+  Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 
 ## Nature

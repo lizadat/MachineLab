@@ -24,23 +24,13 @@ I would go into details for the first part (the sun and the sky):
 - There will be neopixels lights both in the clouds and sun: the clouds - different shades of blue; sun - we can make a gradient - bright yellow to orange (the colors will be changing). It will be bright and very cool with the lights.
 - The movement will be rotational. We can build everything on one platform and make it slowly rotate. Or if more complicated, make the sun rotate one way and the clouds another.
 - I think the sound is 100% but it should be one for the whole project (i think if we do one sound per each part it will be just a noise). If we focus on nature theme we can create an audio of the birds signing, the sound of leaves in the wind, the water etc.
+Here is a small sketch:
+![nature_1_2](https://github.com/lizadat/MachineLab/assets/98390904/85df5c38-4913-4cc7-a381-844cce5aa1a1)
+
+To create such a rotational movement I would need a continious servo motor, for each object I would need some metal or wooden support to make it stable. 
+
 
 - If talking about the water, we would need a water pump. Here is a [video](https://www.youtube.com/watch?v=TipNigD283w&ab_channel=RusticKraftChannel) of how to make it.
 - For the tree, it can be one tree, with the LEDs, 2D shaped, but also with a fast rotational movement, so that when it is rotated it will create a 3D shape. Here is an [example](https://www.youtube.com/watch?v=I4GyYgfM1Ao&ab_channel=THEELECTRONICSADDA) of that. Or something like [this](https://www.youtube.com/shorts/VaryR4MhOCA).
-
-
-
-What would it depict?
-What materials will you use for each part?
-How would you animate anything moving?
-Will there be sound? What?
-Will there be lights? (We have lots of NeoPixels.)
-Make a rough sketch, to the best of your ability.
-What mechanical components will you need?
-What electronic components will you need?
-Draw a block diagram showing very roughly how these components are connected. You don't need to show the circuit or specific wires, just in general what is connected to what.
-What tools or equipment or skills will you need?
-Write this up in your Github repository, in a file named "homework_05Feb.md".
-Remember to use MarkDown and format it properly.
-Include any sketches or pictures (maybe inspiration, a look you're going for, or a mood board, etc.). Look in my lecture notes to see how to include images.
-You can divide the report up into parts and each of you in your group can do one part. Make sure you address all the requirements above. In each of your parts provide a link to the other parts. Look in my lecture notes to see how to create links.
+Here is a more detailed sketch for this part. It will have a similar idea as the first part with the sun and the sky. However, it will be 2D shape. The basic material would be a wooden or metal outline of the tree, where the LEDs will be attached. The wires can be either inside the tree, like on the sketch or inside the frame(outline), so the tree will be empty inside. 
+![nature_2_1](https://github.com/lizadat/MachineLab/assets/98390904/835d403a-81ac-47ac-a520-cd520f8c07d1)

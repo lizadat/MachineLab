@@ -11,4 +11,10 @@ Here is our inspiration for the project!
 
 
 ## Rough Sketch
+Our segment will include 3 main objects, 2 of which will be moving. 1 - the ride itself (will have the rotational movement of the roll on two stands which will have the syncronized rotational movement) , 2 - the clouds (they would separately go up and down), 3 - city/park on the bottom (will not move). Here is a sketch of how it might look like. It will be quite minimalistic because you are basically in the sky and there is not much of the stuff.
 ![IMG_3170](https://github.com/lizadat/MachineLab/assets/98390904/418559b1-ef0c-4f73-82b2-e3b993208e07)
+
+
+The clouds will be 3D, made of polyester stuffing with the LEDs (or Neopixels) light inside. They will be coming from the top, attached to the wire or something. Here is an image how it will look like:
+![image](https://github.com/lizadat/MachineLab/assets/98390904/e7a89637-7468-457e-9a52-ec802cb860ab)
+

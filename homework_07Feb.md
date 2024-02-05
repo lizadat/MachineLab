@@ -16,6 +16,20 @@ Our segment will include 3 main objects, 2 of which will be moving. 1 - the ride
 ![IMG_3170](https://github.com/lizadat/MachineLab/assets/98390904/418559b1-ef0c-4f73-82b2-e3b993208e07)
 
 
+CLOUDS:
 The clouds will be 3D, made of polyester stuffing with the LEDs (or Neopixels) light inside. They will be coming from the top, attached to the wire or something. Here is an image how it will look like:
 ![image](https://github.com/lizadat/MachineLab/assets/98390904/e7a89637-7468-457e-9a52-ec802cb860ab)
+
+- There will be around 5 clouds (3 on the back, 2 in front), different sizes.
+- There will ne blue and white LEDs in each cloud.
+- The clouds will be attached to the top, I would like them to move up and down or left and right
+
+Things needed:
+- Polyester stuffing
+- Hot glue
+- Blue and white LEDs
+- Wires
+- Moving mechanism
+
+The challening part in here for me is the moving part. I would like the clouds to move either up and down or right and left. They can be attached to 2 sticks, which should alternatively move in different directions. I need to think of what mechanism would make it possible.
 

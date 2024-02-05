@@ -31,5 +31,15 @@ Things needed:
 - Wires
 - Moving mechanism
 
-The challening part in here for me is the moving part. I would like the clouds to move either up and down or right and left. They can be attached to 2 sticks, which should alternatively move in different directions. I need to think of what mechanism would make it possible.
+The challening part in here for me is the moving part. I would like the clouds to move either up and down or right and left. They can be attached to 2 sticks, which should alternatively move in different directions. I need to think on a mechanism to make it move.
+
+30 mins later...
+
+I came up with an idea how to make the clouds move!
+I can use a Servo motor!
+The clouds will be attached to two sticks which lay in parallel. Then those two sticks will be attached to another one which will be perpendicularly. This last one will be attached to the servo motor. The motor will rotate 180 degrees one way, making one parallel stick go up and one down, and then 180 degrees another way, making one do down and another do up. 
+Here is a sketch of how it will look like:
+
+![IMG_3171](https://github.com/lizadat/MachineLab/assets/98390904/77a1e226-2beb-4891-90df-d8a1746ecd09)
+
 

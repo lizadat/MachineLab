@@ -1,5 +1,6 @@
 # Sky Ride: Ideation
-in collaboration with Ronit
+in collaboration with Ronit!
+
 For our clock project we landed on the 'Theme Park' theme!
 In order to combine the natural aspect and the theme we came up with the idea to work on the Sky Ride!
 

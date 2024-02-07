@@ -1,5 +1,6 @@
 # Sky Ride: Ideation
 in collaboration with Ronit!
+His repo is [here](https://github.com/rs7358/MachineLab/blob/main/homework_07Feb.md). He worked on the other part than me - the ride itslef. 
 
 For our clock project we landed on the 'Theme Park' theme!
 In order to combine the natural aspect and the theme we came up with the idea to work on the Sky Ride!

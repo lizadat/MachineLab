@@ -9,13 +9,15 @@ I decided to create the moving part, which will hold the clouds. This part is su
 
 For prototyping I used the cardboard and hot glue as my primary tools. 
 I cut the cardboard into 4 strips.
-![1](https://github.com/lizadat/MachineLab/assets/98390904/c8c751bf-a4b5-4f02-9152-8c6af83e3192)
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/c8c751bf-a4b5-4f02-9152-8c6af83e3192" width="50%" height="50%">
 
 I knew that I would need to make the strips strong, so I glued two strips together and also added the wooden sticks inside for a better effect.
-![IMG_3275](https://github.com/lizadat/MachineLab/assets/98390904/b7a7008b-960c-43a9-8f95-695023635c33)
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/b7a7008b-960c-43a9-8f95-695023635c33" width="50%" height="50%">
 
 After that I made another strip with the same metogology and glued everything together with an additional support - tape. As a result I had a 3-sided frame.
-![3](https://github.com/lizadat/MachineLab/assets/98390904/19ca2c89-8d07-45b3-a7e1-d5245b3355c1)
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/19ca2c89-8d07-45b3-a7e1-d5245b3355c1" width="50%" height="50%">
 
 I programmed the Servo motor to turn only 20 degrees one way and then 20 another with a longer delay - 50, so the movement is slower (I think it can be even more slower).
 Here is the code:

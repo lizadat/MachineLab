@@ -51,4 +51,6 @@ Then I attached the servo motor to the cardboard frame. I also had to use the ta
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/6b9430a8-d76a-4304-a43e-2757e60fe213" width="50%" height="50%">
 
 
+Here is a [video1](https://drive.google.com/file/d/1Zsb3iwgc41TCGUlwi5kYZKgQE6IRgRRp/view?usp=sharing) and [video2](https://drive.google.com/file/d/1Zsb3iwgc41TCGUlwi5kYZKgQE6IRgRRp/view?usp=sharing) of how it looked in the progress!
+
 

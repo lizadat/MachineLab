@@ -2,7 +2,7 @@
 We finalized our idea together with Ronit and started working on our parts separately.
 
 ### This is our final sketch for the project:
-<img src="[https://your-image-url.type](https://github.com/lizadat/MachineLab/assets/98390904/db44c1a5-6109-4365-a0e2-064e83a02de3)" width="100" height="100">
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/db44c1a5-6109-4365-a0e2-064e83a02de3" width="300" height="500">
 ![image](https://github.com/lizadat/MachineLab/assets/98390904/db44c1a5-6109-4365-a0e2-064e83a02de3)
 
 ### Prototyping Process

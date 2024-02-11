@@ -2,7 +2,7 @@
 We finalized our idea together with Ronit and started working on our parts separately.
 
 ### This is our final sketch for the project:
-![image](https://github.com/lizadat/MachineLab/assets/98390904/db44c1a5-6109-4365-a0e2-064e83a02de3)
+![image](https://github.com/lizadat/MachineLab/assets/98390904/db44c1a5-6109-4365-a0e2-064e83a02de3 =500x500)
 
 ### Prototyping Process
 I decided to create the moving part, which will hold the clouds. This part is supposed to be connected to the motor, which will rotate a few degrees one side and another lifting one side up and another down and vice versa. 

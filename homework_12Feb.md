@@ -67,5 +67,5 @@ Those are the most concerning parts as of now. I hope to find the polyester stuf
 In the end me and Ronit put our prototypes together to see how it will look like. Here is what we have:
 ![7](https://github.com/lizadat/MachineLab/assets/98390904/575a0407-6e20-4e05-a68f-8e6ae4f32113)
 
-
+For the ride part, done by Ronit, please refer to his [github page](https://github.com/rs7358/MachineLab/blob/main/homework_12Feb.md).
 

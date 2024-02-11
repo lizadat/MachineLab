@@ -17,6 +17,7 @@ I knew that I would need to make the strips strong, so I glued two strips togeth
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/b7a7008b-960c-43a9-8f95-695023635c33" width="50%" height="50%">
 
 After that I made another strip with the same metogology and glued everything together with an additional support - tape. As a result I had a 3-sided frame.
+
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/19ca2c89-8d07-45b3-a7e1-d5245b3355c1" width="50%" height="50%">
 
 I programmed the Servo motor to turn only 20 degrees one way and then 20 another with a longer delay - 50, so the movement is slower (I think it can be even more slower).
@@ -45,7 +46,7 @@ void loop() {
 
 Then I attached the servo motor to the cardboard frame. I also had to use the tape and hot glue for a better connection:
 
-<img src="(https://github.com/lizadat/MachineLab/assets/98390904/bbbc34dc-fb85-45ef-bff1-8aaf63c9c783" width="50%" height="50%">
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/bbbc34dc-fb85-45ef-bff1-8aaf63c9c783" width="50%" height="50%">
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/6b9430a8-d76a-4304-a43e-2757e60fe213" width="50%" height="50%">
 

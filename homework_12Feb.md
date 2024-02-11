@@ -44,8 +44,10 @@ void loop() {
 }
 
 Then I attached the servo motor to the cardboard frame. I also had to use the tape and hot glue for a better connection:
-![4](https://github.com/lizadat/MachineLab/assets/98390904/bbbc34dc-fb85-45ef-bff1-8aaf63c9c783)
-![5](https://github.com/lizadat/MachineLab/assets/98390904/6b9430a8-d76a-4304-a43e-2757e60fe213)
+
+<img src="(https://github.com/lizadat/MachineLab/assets/98390904/bbbc34dc-fb85-45ef-bff1-8aaf63c9c783" width="50%" height="50%">
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/6b9430a8-d76a-4304-a43e-2757e60fe213" width="50%" height="50%">
 
 
 

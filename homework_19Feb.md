@@ -1,4 +1,4 @@
-# Proccess documentation
+![8](https://github.com/lizadat/MachineLab/assets/98390904/13acaed1-5678-4169-8ba7-733a2f7a13ab)# Proccess documentation
 
 This weekend I continued working on my sky part for the skyride.
 Here is what I have done:
@@ -17,7 +17,17 @@ of the screws. I realized that my wood stick is quite narrow, so I could not att
 screws instead of 8.
 ![4](https://github.com/lizadat/MachineLab/assets/98390904/1b4989b0-1dc6-4c57-b963-cb275fc5f94b)
 
-4. 
+4. Then I worked with two stands, one of which will hold the motor. I attached the metal holders to the top of one stand with the screws and used the 4M bolts to attach the motor
+![5](https://github.com/lizadat/MachineLab/assets/98390904/d94dfbda-63bf-4694-abde-3b721c197f4b)
+![6](https://github.com/lizadat/MachineLab/assets/98390904/6435b811-b727-4f83-90c2-648c1f22490b)
+
+5. These are all components I worked with. They cannot be dissambled, so if I want to change something I would have to do everything again. When I attached the motor I realized that it became higher than it was supposed to be, so I ended up doing some more sawing of the stand, which hold the motor.
+![6 5](https://github.com/lizadat/MachineLab/assets/98390904/655a4a51-ed67-4c0d-9d66-48d97409061e)
+
+6. To try out I attached the motor and the frame to see how it will look like. 
+![8](https://github.com/lizadat/MachineLab/assets/98390904/de35bf39-2c38-4358-9e61-b503c902a2dc)
+
+
 
 
 

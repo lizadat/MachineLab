@@ -31,14 +31,19 @@ screws instead of 8.
 as well. I did not fix it, because it serves more as just a support. Here is how it looked like:
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/a814fc6d-07f8-4c90-9666-d85e2f430a3b" width="50%" height="50%">
 
-10. Then I was able to put all the parts together and make everything stand. 
+10. Then I was able to put all the parts together and make everything stand and move (however, the frame is a little bit in a wrong position. I need to figure out thee right degrees for the motor to do the rotation I want). 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/e401002d-7ce7-42f0-81de-60c87a551eeb" width="50%" height="50%">
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/df8f34a3-3646-49f7-b4b0-be5024cf409a" width="50%" height="50%">
 
-11. Then I started working on the other part: the clouds. For that I did soldering first to connect the neopixel with the wires (I made a huge mistake first by soldering the red wire to ground and black to 5V...).
-![1](https://github.com/lizadat/MachineLab/assets/98390904/8e01000c-d939-4085-bb02-a6e30753d030)
 
-12. The I wrote a simple code to control the LEDs, but I would like to change it to make it as a gradient.
+https://github.com/lizadat/MachineLab/assets/98390904/d91abade-9013-49fc-afb6-bf68adb1f440
+
+
+
+11. Then I started working on the other part: the clouds. For that I did soldering first to connect the neopixel with the wires (I made a huge mistake first by soldering the red wire to ground and black to 5V...).
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/8e01000c-d939-4085-bb02-a6e30753d030" width="50%" height="50%">
+
+13. The I wrote a simple code to control the LEDs, but I would like to change it to make it as a gradient.
 Here is a code (I edited the sample from the Neopixel librart):
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
@@ -68,17 +73,19 @@ void loop() {
     delay(DELAYVAL);
   }
 }
-![2](https://github.com/lizadat/MachineLab/assets/98390904/748a0730-2faa-42f1-896c-57d4fe48dd81)
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/748a0730-2faa-42f1-896c-57d4fe48dd81" width="50%" height="50%">
 
 13. After that I used the polyester stuffing to create a cloud around it. I also used hot glue to stick the material and fill the gaps.
-![3](https://github.com/lizadat/MachineLab/assets/98390904/9b0bd07a-3c18-48a8-98f0-2e7cca8f569a)
-
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/9b0bd07a-3c18-48a8-98f0-2e7cca8f569a" width="50%" height="50%">
 
 14. When I connected all the wires and put the LEDs in the cloud here is what I've got:
 
+https://github.com/lizadat/MachineLab/assets/98390904/70fe5186-a2c8-41f0-b4db-279dc769f152
 
 
-
+15. Then I just tried to see how it will all look together. But, it was super hard to do because nothing is attached.
+But at least the whole idea is visible here. 
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/4353dcb6-7b81-4b03-8b63-1a22e80f0649" width="50%" height="50%">
 
 
 

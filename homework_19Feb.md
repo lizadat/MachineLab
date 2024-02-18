@@ -73,6 +73,8 @@ void loop() {
     delay(DELAYVAL);
   }
 }
+
+
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/748a0730-2faa-42f1-896c-57d4fe48dd81" width="50%" height="50%">
 
 13. After that I used the polyester stuffing to create a cloud around it. I also used hot glue to stick the material and fill the gaps.

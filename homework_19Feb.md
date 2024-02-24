@@ -1,4 +1,4 @@
-# Proccess documentation
+# Process documentation
 
 This weekend I continued working on my sky part for the skyride.
 Here is what I have done:

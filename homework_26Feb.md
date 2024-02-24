@@ -41,7 +41,7 @@ Some decisions made in class:
 I started with creating the scheme on paper for the motor plate to hold the motor and connect to the stand.
 I first drew it on paper with all the necessary measurements and then for a better understanding made a digital version:
 
-<img src="https://github.com/lizadat/MachineLab/assets/98390904/c85800d0-078e-4c8f-a496-8c485a78efef" width="50%" height="50%">
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/c85800d0-078e-4c8f-a496-8c485a78efef" width="40%" height="40%">
 
-<img src="https://github.com/lizadat/MachineLab/assets/98390904/0b3a751b-c982-449a-a03f-3b57c4a03400" width="50%" height="50%">
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/0b3a751b-c982-449a-a03f-3b57c4a03400" width="40%" height="40%">
 

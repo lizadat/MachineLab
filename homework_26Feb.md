@@ -87,7 +87,7 @@ void loop() {
 
 CLOUDS (my most exciting thing):
 For this week I wanted to write the right code for what I wanted: the light blue - dark blue - dark purple gradient.
-I found some example on the Arduino Help Forum. Here is a [webpage](https://forums.adafruit.com/viewtopic.php?t=122440) I used as a source. 
+I found some example on the Arduino Help Forum. Here is a [webpage](https://forums.adafruit.com/viewtopic.php?t=122440) I used as a source. It took me some time to figure out how the code worked, but as soon as I did I understood the whole idea and was able to do 3 different colors change!
 
 Here is the result:
 

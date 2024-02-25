@@ -45,15 +45,18 @@ I first drew it on paper with all the necessary measurements and then for a bett
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/0b3a751b-c982-449a-a03f-3b57c4a03400" width="40%" height="40%">
 
-Thanks to @MichaelShiloh the motor plate was made. It prefectly fitted the motor, so I am very glad. The only thing - I could do only 4mm wholes for the bolts, for some reason I thought it was 5. But it all holds together perfectly. 
+Thanks to @michaelshiloh the motor plate was made. It prefectly fitted the motor, so I am very glad. The only thing - I could do only 4mm wholes for the bolts, for some reason I thought it was 5. But it all holds together perfectly. 
 
-image
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/14a5c5cb-57b5-4c16-b0b1-2d263842bfc7" width="40%" height="40%">
 
 
 Before I faced the problem where I could not figure out the right degrees values for a proper frame turn. So after attached the motor plate and connecting the motor to the power and also adding the potentiometer I figured everythign out:
 I need the motor to start at 16 degrees and then rotate + and - 10, which is 6 and 26. It can be less, depending on how big the frame will be. 
 
-image
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/cd54ffbd-c60f-4f66-b382-b54a8d909f51" width="40%" height="40%">
+
+I used this code for servo motor and potentiometer:
+
 
 
 CLOUDS (my most exciting thing):
@@ -62,7 +65,12 @@ I found some example on the Arduino Help Forum. Here is a [webpage](https://foru
 
 Here is the result:
 
-Image 
+![3](https://github.com/lizadat/MachineLab/assets/98390904/9e4498a8-f083-43c9-b904-d7ae468a21ea)
 
-Video
+Video:
+
+https://github.com/lizadat/MachineLab/assets/98390904/2e37a97e-998b-4447-b3a3-52722a78701e
+
+
+// <img src="" width="40%" height="40%">
 

@@ -170,5 +170,10 @@ The last step included adding the polyester stuffing. This time I directly glued
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/24eb211c-033c-4dc4-8949-7c001d153178" width="50%" height="50%">
 
 
+What will I get done for next week?
+- I will connect the freshly made clouds and see if it works. I would like to also change the colors, so that all of them have different shades.
+- I will start building the frame and the stands for it.
+- I will also connect it to the motor and make a proper rotation
+- We will continue working on the ride itself. I think we will created a wood or maybe the metal stand for the motors and will improve in our design of the cars. 
 
 

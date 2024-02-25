@@ -84,6 +84,18 @@ void loop() {
 </details>
 
 
+As we decided to do the final set up with aluminum I decided to practice working with it.
+I first cut a piece 45 cm long, which can potentially be a part of the frame. I ended up cutting it like 30 degrees to one side and I do not know why. It was not straight, but it is ok. For the future I would like to use some special machine for cutting metal, so that everything is straight and looks nice. 
+
+I had to drill two holes in this piece, but the trick was that it had to be very very precise to fit the motor connector. Unfortunately I did not do well so I had to somehow make a hole 1-2 mm to one side, which took quite a long time.
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/0bec5432-0d3a-481c-ac20-138270b10b94" width="50%" height="50%">
+
+
+But, I manage to connect it with bolts. It has quite a strong connection even though it is only 2 bolts out of 6. I do not know whether it will be enough or I would have to think of how to connect the rest, because that piece of metal is not wide. 
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/075fa439-9a79-4528-8ceb-96a02cb930d4" width="50%" height="50%">
+
+
 
 CLOUDS (my most exciting thing):
 For this week I wanted to write the right code for what I wanted: the light blue - dark blue - dark purple gradient.
@@ -136,4 +148,27 @@ void fadeAll(int r1, int g1, int b1, int r2, int g2, int b2, int fadeRate, int s
 }
 ```
 </details>
+
+
+In order to make some more progress this week I decided to create two additional clouds.
+When we tried putting clouds in our whole composition, the cloud was quite big. I had 33 neopixels in there, so this time I made one 18 and another 20 pixels. 
+
+I started with cutting the neopixels strip and soldering. This time I already knew how to do it in easy way, so the soldering turned out much nicer and I did it faster. 
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/e1bcd849-e52e-4484-bcdf-76af4e4945f7" width="50%" height="50%">
+
+
+To fix the neopixels in the way I wanted I used small plastic ties and created a small bow. 
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/0b16dab6-ea2d-448e-a774-86c9eab6b40b" width="50%" height="50%">
+
+
+
+The last step included adding the polyester stuffing. This time I directly glued it with hot glue to the neopixel strip and not like the last time (created a 'bag' and put the strip in it). I figured out that it was not very reliable and there were many holes. This was of just direct gluing was much better.
+
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/24eb211c-033c-4dc4-8949-7c001d153178" width="50%" height="50%">
+
+
+
 

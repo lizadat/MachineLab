@@ -45,3 +45,24 @@ I first drew it on paper with all the necessary measurements and then for a bett
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/0b3a751b-c982-449a-a03f-3b57c4a03400" width="40%" height="40%">
 
+Thanks to @MichaelShiloh the motor plate was made. It prefectly fitted the motor, so I am very glad. The only thing - I could do only 4mm wholes for the bolts, for some reason I thought it was 5. But it all holds together perfectly. 
+
+image
+
+
+Before I faced the problem where I could not figure out the right degrees values for a proper frame turn. So after attached the motor plate and connecting the motor to the power and also adding the potentiometer I figured everythign out:
+I need the motor to start at 16 degrees and then rotate + and - 10, which is 6 and 26. It can be less, depending on how big the frame will be. 
+
+image
+
+
+CLOUDS (my most exciting thing):
+For this week I wanted to write the right code for what I wanted: the light blue - dark blue - dark purple gradient.
+I found some example on the Arduino Help Forum. Here is a [webpage](https://forums.adafruit.com/viewtopic.php?t=122440) I used as a source. 
+
+Here is the result:
+
+Image 
+
+Video
+

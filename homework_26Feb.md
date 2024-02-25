@@ -55,6 +55,7 @@ I need the motor to start at 16 degrees and then rotate + and - 10, which is 6 a
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/cd54ffbd-c60f-4f66-b382-b54a8d909f51" width="50%" height="50%">
 
+
 <details>
 <summary>Click to toggle contents of code for potentiometer and Servo motor </summary>
 
@@ -81,6 +82,7 @@ void loop() {
 
 ```
 </details>
+
 
 
 CLOUDS (my most exciting thing):
@@ -134,11 +136,4 @@ void fadeAll(int r1, int g1, int b1, int r2, int g2, int b2, int fadeRate, int s
 }
 ```
 </details>
-
-
-
-
-// <img src="" width="50%" height="50%">
-
-
 

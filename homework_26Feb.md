@@ -1,5 +1,7 @@
 # Process Documentation
 
+Collaboration with [Ronit](https://github.com/rs7358/MachineLab/blob/main/homeword_26Feb.md). The sky ride part is on his guthub page.
+
 ### In class work:
 
 Since we had time in class to work on our project, I and Ronit connected the frame with the stands to the bottom.

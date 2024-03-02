@@ -70,7 +70,7 @@ My plan for the future:
 - I need to finish up with assembling the stands and frame
 - I want to make a few mor clouds and connect them to my frame
 - I need to make the proper movement of the motor
-- Maybe, have everythign connected (clouds and motor) and see how the whole picture looks like.
+- Maybe, have everything connected (clouds and motor) and see how the whole picture looks like.
 
 We will also continue working on our sky ride. Go to the [Ronit's github](). 
 

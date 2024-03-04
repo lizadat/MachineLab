@@ -65,11 +65,27 @@ Even though the frame was quite loose I still tried to connect it to the stands 
 https://github.com/lizadat/MachineLab/assets/98390904/f7aff5da-c223-405f-8b47-55289b33864c
 
 
+After advising with the professor I fixed the frame. I used a metal file to remove the pieces left on the frame parts after the drilling. I think because I had some of them left there it prevented the nut from a complete tightness. Moreover, I was shown where the proper tools were for tightening the nuts, so as a result I used them and everything turned out the way I planned. 
+
+After that I proceeded with installing my metal construction to the wooden bottom.
+I measured where the stands were supposed to be and drilled the holes and used the screws to attach the stands to the bottom. 
+They stood very firm. 
+
+
+
+
+After that I added the frame. I am glad that with the bolts it is relatively easy to assemble and disassemble everything, so I can easily take the frame down. Everything seems very steady and I like it.
+
+
+
+My next step was to set up the right degrees values for the motor. I again used a potentiometer to find out the values, because when I attached the frame it was in a different place then I had before. Now the degrees I use are 95-115. 
+
+
+
+
 
 My plan for the future:
-- I need to finish up with assembling the stands and frame
 - I want to make a few mor clouds and connect them to my frame
-- I need to make the proper movement of the motor
 - Maybe, have everything connected (clouds and motor) and see how the whole picture looks like.
 
 We will also continue working on our sky ride. Go to the [Ronit's github](). 

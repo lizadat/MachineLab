@@ -72,14 +72,55 @@ I measured where the stands were supposed to be and drilled the holes and used t
 They stood very firm. 
 
 
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/c6a3025f-2486-4d7b-b7ae-add3f094762f" width="50%" height="50%">
+
 
 
 After that I added the frame. I am glad that with the bolts it is relatively easy to assemble and disassemble everything, so I can easily take the frame down. Everything seems very steady and I like it.
 
 
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/1ae884db-9dc2-45b0-9d1e-2bb24a0b12c7" width="50%" height="50%">
+
+
 
 My next step was to set up the right degrees values for the motor. I again used a potentiometer to find out the values, because when I attached the frame it was in a different place then I had before. Now the degrees I use are 95-115. 
 
+<details>
+<summary>Click to toggle contents of code for the motor with new degree values</summary>
+
+```
+#include <Servo.h>
+
+Servo myservo; 
+
+int pos = 0;  
+
+void setup() {
+  myservo.attach(9); 
+  myservo.write(pos);
+}
+
+void loop() {
+  for (pos = 95; pos <= 115; pos += 1) {
+    myservo.write(pos);   
+             
+    delay(100);                       
+  }
+  for (pos = 115; pos >= 95; pos -= 1) {
+    myservo.write(pos);              
+    delay(100);                       
+  }
+}
+```
+</details>
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/5bfab3c3-004f-46c4-b173-b8471fb352da" width="50%" height="50%">
+
+
+
+Being curious I attached the clouds with the tape to the frame. I wanted to see the whole picture of my work and I think with the clouds it looks very cute. I realized that the wires that go from the clouds should be longer, but I will solder more when I know exactly where the Arduino will be placed. I also Think that the middle is quite empty, so most probably I will add some crossing in between so I can add more clouds there. 
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/63f27617-141e-4b77-bbac-44cb76077fec" width="50%" height="50%">
 
 
 

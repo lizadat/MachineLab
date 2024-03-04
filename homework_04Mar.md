@@ -123,6 +123,12 @@ Being curious I attached the clouds with the tape to the frame. I wanted to see 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/63f27617-141e-4b77-bbac-44cb76077fec" width="50%" height="50%">
 
 
+Here is the final result from my work over this week:
+
+https://github.com/lizadat/MachineLab/assets/98390904/996b0ff1-07b3-4e21-8ee6-c2a0cb465f37
+
+
+
 
 
 My plan for the future:

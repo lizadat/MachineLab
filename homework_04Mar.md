@@ -127,13 +127,15 @@ Here is the final result from my work over this week:
 
 https://github.com/lizadat/MachineLab/assets/98390904/996b0ff1-07b3-4e21-8ee6-c2a0cb465f37
 
+PROBLEM: the motor does not rotate smoothly. I think it miaght be happening because it looks like one end of the frame (the opposite stand from the one with motor) is a little bit higher. I need help to find out the actual reason. 
 
 
 
-
-My plan for the future:
-- I want to make a few mor clouds and connect them to my frame
-- Maybe, have everything connected (clouds and motor) and see how the whole picture looks like.
+My plan for the spring break:
+- To make few more clouds and to connect them to Arduino.
+- To add additional parts to the frame and attach the clouds there as well.
+- Make progress with the ride.
+- Think on what we can put on the bottom, for instance make a city. 
 
 We will also continue working on our sky ride. Go to the [Ronit's github](). 
 

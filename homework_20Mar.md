@@ -36,6 +36,13 @@ As a result we were able to make everything work. The car was going around the p
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/8fbf21a3-6fd5-40df-8b2b-f1bf948c831b" width="50%" height="50%">
 
 
+Here is video of how it all looks like in the end:
+
+https://github.com/lizadat/MachineLab/assets/98390904/5e60048b-0fe2-466c-a7b6-be9cb3d181a7
+
+
+
+
 We have a lot to work on in the future, but we are finalized with our 2 main concepts!
 We will have to:
 - print the pulleys to fit the attaching material

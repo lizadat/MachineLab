@@ -15,6 +15,9 @@ We decided to take lots of steps in practically putting the ride and attaching t
 
 ![IMG_3607](https://github.com/lizadat/MachineLab/assets/98390904/346190ff-ad41-42d5-bbe4-e7acff5a36e7)
 
+![Uploading IMG_3606.jpg…]()
+
+
 
 It took a while to fix the motor to the bottom since the 3D printing was not quite precise. We found a piece of acrylic to put under the motor to level everything and then with the help of screws attached everything to the bottom.
 

@@ -24,7 +24,13 @@ We were glad to see that everything was properly measured and there were no undp
 
 After placing everything we had we also decided on creating one more ride, which would be lower and stand closer to the viewer. We will start workign on it when we finish with our original one and everything works properly. 
 
+After the replacement I continued working on the clouds. First of all I checked whether I did all the soldering right. All the neopixels worked properly. Interestingly, when I started putting the polyester stuffing on one of the neopixels I noticed that the black wire was disconnected which suggested that soldering was not great, so I resoldered that connection. I hope the problem like this will not appear again, cause if one soldering is not right, the whole cloud will not work in a way I want. 
+
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/c5e293e8-57ed-4c7a-b903-4579c35f7c1e" width="50%" height="50%">
+
+I continued with putting the polyester stuffing on each neopixel. I attached it with a hot glue, which worked pretty well and if needed can be unglued. I already have the steps of how to attach it to the neopixel, so hopefully when I cotninue doing more clouds it will be faster. 
+
+In the end I temporarily attached the clouds to the frame. I tried to put them on different heights and that's how I want it to look like in the end. I noticed that there was still some space left, so that was when I understood I would more clouds (preferable 3 middle size and maybe a few tiny ones), because I want the sky to look epic. 
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/ef3ce449-e988-44dd-b139-25948342449d" width="50%" height="50%">
 

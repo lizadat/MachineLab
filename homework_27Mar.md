@@ -1,4 +1,5 @@
 # Progress
+In collaboration with (Ronit)[]
 
 ## In class:
 During the class on Wednesday we continued working on our project. We made our final decisions regarding 3D printing new details and laser cutting the cars. We hope to have it all done by the next class.
@@ -35,3 +36,13 @@ In the end I temporarily attached the clouds to the frame. I tried to put them o
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/ef3ce449-e988-44dd-b139-25948342449d" width="50%" height="50%">
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/42298428-02ab-4f28-97f6-0f9e94f0cdb2" width="50%" height="50%">
+
+For the future we plan:
+- 3D print the wheels in a proper size (already printing)
+- Laser cut the cars
+- Make more clouds
+- Attach the clouds to the frame
+- Decide on where Arduino will be placed and figure out how the wires will go there
+
+
+We are making good progress on our project and hope soon to start working on final looks and steps. 

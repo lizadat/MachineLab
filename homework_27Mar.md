@@ -9,14 +9,20 @@ As planned, I completed the frame by adding two additional parts in the middle i
 
 The second part I worked on was the clouds. As suggested by the professor I replaced the solid wire to the stranded wire for a sake of strength. As the clouds will be hanged and the wires will not be fixed it is better to use this type of wire. Additionally they were flexible and as a result look better than the solid. 
 I disassembled the old clouds and resoldered the wires. Also I created two more, so in total now I had 5 neopixel parts. I again used the plastic ties to make small bows as I liked how it looked like in the end. 
+All the bows except one, have 20 neopixels, that one has 18. I decided that it is the best size, however later on I might decrease the amount. 
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/486ff025-cac1-4438-b092-f64bbea4282c" width="50%" height="50%">
 
 ## Homework:
+As we had a clear plan of what to do next for our homework we started with replacing our whole project to a final platform, which also has a vertical back. We did all the necessary measurements and it was relatively easy to attach the stands in the right spots. 
+It was a good move from our side as now we could clearly see all the heights and distances, which we could not see having just the bottom. 
+We were glad to see that everything was properly measured and there were no undpredictable problems (I am talking specifically about the frame touching the back plane, there is just enough space for rotation)!
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/2b5f5089-c225-4d7f-b3df-f59768bf162c" width="50%" height="50%">
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/456023da-37dd-40a3-baf0-b0bd3499fa61" width="50%" height="50%">
+
+After placing everything we had we also decided on creating one more ride, which would be lower and stand closer to the viewer. We will start workign on it when we finish with our original one and everything works properly. 
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/c5e293e8-57ed-4c7a-b903-4579c35f7c1e" width="50%" height="50%">
 

@@ -1,5 +1,5 @@
 # Progress
-In collaboration with (Ronit)[]
+In collaboration with [Ronit](https://github.com/rs7358/MachineLab)
 
 ## In class:
 During the class on Wednesday we continued working on our project. We made our final decisions regarding 3D printing new details and laser cutting the cars. We hope to have it all done by the next class.

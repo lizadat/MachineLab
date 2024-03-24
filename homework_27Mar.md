@@ -1,3 +1,5 @@
+I am presenting this week! Here is a [link](https://www.canva.com/design/DAGAa1Q60Lg/8VcKL349u-G_Ukpo7uMc6g/edit?utm_content=DAGAa1Q60Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to my presentation.
+
 # Progress
 In collaboration with [Ronit](https://github.com/rs7358/MachineLab)
 

@@ -23,5 +23,24 @@ https://github.com/lizadat/MachineLab/assets/98390904/b164e8d1-fad5-4e15-83b9-f0
 
 ## Homework
 
+For working on our project we got together and built a second ride. Initially we were planning on doing two rides, one of which would be diagonal, but we decided to not overcomplicate our project and focus more on other small, but more important details (decoration, final looks). 
+This week we built a secodn ride. We asked the professor to cut the shafts for us the right height - the secodn ride is half size the first one. We did all the measurements of where the second ride will be located, drilled the holes for it. We also made an aluminium bracket to fix the motor to the bottom. The wheels were already printed, so we also drilled the holes in there and attached the corresponding pieces. 
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/2779b333-aef0-408b-a1b1-921d1696d028" width="50%" height="50%">
+
+
+As we have already gone through the process of putting the ride together, putting the second ride was much easier. We also soldered the wires right away, because last time we had to unscrew some stuff. Also we cut a new rope, making it a bit longer, so that it does not bend that much the first ride.
+NOTE: from now one the first ride will be called 'the back ride', and the second - the new we made today - 'the front ride'.
+
+In order to test everything we connected both motors to power ad ground and it all worked. We also decided on doing a support for the front ride as well, so that it is stronger and does not bend because of the rope. 
+This is how everything looked like in the front in the end. 
+
+https://github.com/lizadat/MachineLab/assets/98390904/b2ebfb70-786f-4565-b90a-908bcd8b6a1d
+
+As the assignment for this week was to do the wiring (organize it in some ways), we attached the Arduino to metal holder (with the help of YouTube tutorial, cause we could not figure out how to connect them, lol) provided by the professor. We also attached the holder itself to the back with the velcro. 
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/bedc55f7-ce0e-4715-9ffa-17e6b240e7ce" width="50%" height="50%">
+
+
 
 

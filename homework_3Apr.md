@@ -57,7 +57,7 @@ Th ebiggest challenge this week was the coding part. As we decided that the best
 This is the code we have as of now:
 
 <details>
-<summary>Click to toggle contents of code for the motor with new degree values</summary>
+<summary>Click to toggle contents of code</summary>
 
 ```
 #include <Servo.h>

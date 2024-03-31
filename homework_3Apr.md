@@ -37,10 +37,23 @@ This is how everything looked like in the front in the end.
 
 https://github.com/lizadat/MachineLab/assets/98390904/b2ebfb70-786f-4565-b90a-908bcd8b6a1d
 
-As the assignment for this week was to do the wiring (organize it in some ways), we attached the Arduino to metal holder (with the help of YouTube tutorial, cause we could not figure out how to connect them, lol) provided by the professor. We also attached the holder itself to the back with the velcro. 
+As the assignment for this week was to do the wiring (organize it in some ways).
+
+The clouds have quite a complicated system of wiring because there are 8 of them. After adding the right length wires we realized that it is most probably just wasting the resources. We came to the conclusion that all the power and ground wires have to be connected somewhere where they all are getting together (where the frame is attached to the motor) and the wires which are supposed to go to Arduino will be long. 
+
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/3749e278-001f-4823-80cf-d932aab7cdb0" width="50%" height="50%">
+
+
+We attached the Arduino to metal holder (with the help of YouTube tutorial, cause we could not figure out how to connect them, lol) provided by the professor. We also attached the holder itself to the back with the velcro. Also we have a breadboard sticked on the back temporarily. 
+
+As we at this point had two motors, so we decided to use the zippers to hold the motor wires together and also put the tags saying what those wires go to. 
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/bedc55f7-ce0e-4715-9ffa-17e6b240e7ce" width="50%" height="50%">
 
 
+CHALLENGE: 
+Th ebiggest challenge this week was the coding part. As we decided that the best way for all the things to work together would be using the millis method, we had to change the code. However, it still does not work. The clouds can change and the motor can move separetely well, but not when together. We would probablu have to seek the help from the professor. 
+This is the code we have as of now:
 
 

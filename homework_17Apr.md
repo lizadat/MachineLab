@@ -1,5 +1,5 @@
 # Progress
-Presentation: Kinetoscope. (Link)[https://www.canva.com/design/DAGBopYjjKA/2alR02OHYtEwDWe5YRsPSA/edit?utm_content=DAGBopYjjKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+Presentation: Kinetoscope. [Link](https://www.canva.com/design/DAGBopYjjKA/2alR02OHYtEwDWe5YRsPSA/edit?utm_content=DAGBopYjjKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### In class
 Since we had some time during our class on Monday, we continued working on our front ride. We added the aluminium holder to hold the shaft and prevent it from leaning to the sides. We had to think a lot on how to attach it as precise as possible because its bending was not precise. But we managed to do it and here is a final look:

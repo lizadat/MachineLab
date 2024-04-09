@@ -250,9 +250,16 @@ https://github.com/lizadat/MachineLab/assets/98390904/4e4c089b-9ab0-4191-966d-63
 Problems we are facing:
 We need to laser cut the cars, but the laser cutter in the lab broke. We reached out to the advanced workshop, so maybe they will be able to help us. 
 
+In order to make progress in wiring all our moving object we will use two additional things:
+1. Motor driver in order to control the speed and on/off stage of the motors of the ride. It was alredy attached, we just need to add the code to the common code.
+   
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/1acd8885-a1c6-482d-89b8-1e75b2c49489" width="50%" height="50%">
+
+2. We got from the professor additional power supply, because powering all Neopixel by Arduino will be a bad idea. 
+
 Future steps: 
 - We will add more clouds to the code and will connect them to the Arduino and use additional voltage for neopixel
 - We will figure out how to laser cut the cars
 - We will 3D print the holders for the cars
-- We will start working on the design for a bottom of the ride. We want to laser cut the skylines of different cities to fill that space and craete an illusion that the ride is very high. 
+- We will start working on the design for a bottom of the ride. We want to laser cut the skylines of different cities to fill that space and craete an illusion that the ride is very high. Also we plan to paint the back plane in blueish colors as it is the sky. 
 

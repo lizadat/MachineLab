@@ -245,5 +245,5 @@ The upcoming things:
 - There was a chance to do the laser cutting, which involved laser cutting our cars and the city skyline, which we will attach to the bottom
 - We need to troubleshoot the motor to have the smooth turning
 - The Music Maker Shield is almost ready to be connected to the whole project, so we will continue working on it during the class on Wednesday
-- As for the homework required: we have two 
+- As for the homework required: we have two power feeds ready and we just need to add the button and an LED, which will be relatevily easy to do. Also we will add the Music Maker Shield. 
 

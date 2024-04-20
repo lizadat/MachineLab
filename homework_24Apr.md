@@ -10,6 +10,14 @@ Here is the progress and the result:
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/1a334f23-910d-4553-b002-b1b0d19325b7" width="50%" height="50%">
 
+
+Because I have done the decorating (spray paint) part, I could continue working with the wiring. The biggest part was to connect all the clouds. I ended up soldering all power (red) wires together and all ground (black) together. One important thing to remember while working with neopixel and additional power supply, ground should also go to Arduino. I faced this issues, neopixel was not working properly and it was because of that. That is why my 8 black wires were soldered into 2: one went to power supply and one to Arduino. 
+
+When I connected all the clouds to power and ground I was able to program all of them fo different colors. All of them worked, however I would like to work more on the colors in particular. As of now each cloud has its own pin, there are enough of them surrently, but most probably something will be changed as we will be adding the Music Maker Shield. 
+
+When all the neopixels were connected the Servo motor started lagging. This is a current issue we have to address. 
+This is the current code:
+
 <details>
 <summary>Click to toggle contents of code</summary>
 
@@ -229,10 +237,13 @@ void loop() {
 </details>
 
 
-
+This is the video of our project on its current stage. 
 
 https://github.com/lizadat/MachineLab/assets/98390904/8edd7379-a66e-4594-9946-7ece47c0bae3
 
+The upcoming things:
+- There was a chance to do the laser cutting, which involved laser cutting our cars and the city skyline, which we will attach to the bottom
+- We need to troubleshoot the motor to have the smooth turning
+- The Music Maker Shield is almost ready to be connected to the whole project, so we will continue working on it during the class on Wednesday
+- As for the homework required: we have two 
 
-   
-<img src="https://github.com/lizadat/MachineLab/assets/98390904/1acd8885-a1c6-482d-89b8-1e75b2c49489" width="50%" height="50%">

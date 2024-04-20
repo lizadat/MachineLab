@@ -35,17 +35,23 @@ This is the current code:
 
 #include <Servo.h>
 #include <Adafruit_NeoPixel.h>
-
-// SERVO PIN NUM 9!!!!
+// SERVI PIN NUMBER 5
 Servo myservo;
 
-int pos = 95;  
+int pos = 100;  
 
-int beginPos = 95;   // initial position of the servo
+int beginPos = 100;   // initial position of the servo
 int targetPos = 115;   // target position of the servo
 int step = 1;  // step size for each movement
 unsigned long previousMillisMotor = 0;
 const long interval_motor = 100;
+
+const int IN1_PIN = 10; // the Arduino pin connected to the IN1 pin L298N
+const int IN2_PIN = 2; // the Arduino pin connected to the IN2 pin L298N
+
+const int IN3_PIN = 9; // the Arduino pin connected to the IN1 pin L298N
+const int IN4_PIN = 8; // the Arduino pin connected to the IN2 pin L298N
+
 
 class NeoPixelFader
 {
@@ -108,6 +114,30 @@ class NeoPixelFader
       redMaxValue = _redMaxValue;
       redCurrentValue = _redCurrentValue;
       redIncrementAmount = _redIncrementAmount;
+    }
+
+    void setBlueValues(
+      uint8_t _blueMinValue,
+      uint8_t _blueMaxValue,
+      uint8_t _blueCurrentValue,
+      uint8_t _blueIncrementAmount)
+    {
+      blueMinValue = _blueMinValue;
+      blueMaxValue = _blueMaxValue;
+      blueCurrentValue = _blueCurrentValue;
+      blueIncrementAmount = _blueIncrementAmount;
+    }
+
+    void setGreenValues(
+      uint8_t _greenMinValue,
+      uint8_t _greenMaxValue,
+      uint8_t _greenCurrentValue,
+      uint8_t _greenIncrementAmount)
+    {
+      greenMinValue = _greenMinValue;
+      greenMaxValue = _greenMaxValue;
+      greenCurrentValue = _greenCurrentValue;
+      greenIncrementAmount = _greenIncrementAmount;
     }
 
     void update()
@@ -207,7 +237,7 @@ void motor_check(){
 
     // move the servo towards the target position
     pos += step;
-    if (pos >= targetPos || pos <= 95) {
+    if (pos >= targetPos || pos <= beginPos) {
       step *= -1; // Reverse direction when reaching target position or start position
     }
     myservo.write(pos);  // move the servo to the new position
@@ -216,22 +246,64 @@ void motor_check(){
 
 
 // pin, number of pixels, delay between steps
+// front right
 NeoPixelFader cloud1(A5, 20, 10); 
+// back left
+NeoPixelFader cloud2(A4, 20, 10);
 
+NeoPixelFader cloud3(A3, 20, 10);
+
+NeoPixelFader cloud4(A2, 20, 10);
+NeoPixelFader cloud5(A1, 20, 10);
+NeoPixelFader cloud6(A0, 20, 10);
+NeoPixelFader cloud7(3, 20, 10);
+NeoPixelFader cloud8(6, 20, 10);
 void setup() {
   Serial.begin(9600);
-  myservo.attach(9); 
+  myservo.attach(5); 
   myservo.write(pos);
   // parameters are
   // redMinValue, redMaxValue, redCurrentValue,redIncrementAmount)
-  cloud1.setRedValues( 50, 100, 100, -1);
+  //cloud1.setRedValues( 0, 20, 20, -1);
   cloud1.begin();
+  cloud2.setRedValues( 10, 80, 10, -1);
+  cloud2.begin();
+  cloud3.setBlueValues(100, 200, 200, -1);
+  cloud3.begin();
+  cloud4.setBlueValues(70, 100, 100, -1);
+  cloud4.begin();
+  cloud5.setBlueValues(100, 200, 200, -1);
+  cloud5.begin();
+  cloud6.setGreenValues( 0, 50, 50, -1);
+  cloud6.begin();
+  cloud7.setBlueValues( 50, 100, 100, -1);
+  cloud7.begin();
+  cloud8.setGreenValues( 10, 50, 50, -1);
+  cloud8.begin();
+
+  pinMode(IN1_PIN, OUTPUT);
+  pinMode(IN2_PIN, OUTPUT);  
+  pinMode(IN3_PIN, OUTPUT);
+  pinMode(IN4_PIN, OUTPUT);
 }
 
 void loop() {
   motor_check();
   cloud1.update();
-  // cloud1.print();
+  cloud2.update();
+  cloud3.update();
+  cloud4.update();
+  cloud5.update();
+  cloud6.update();
+  cloud7.update();
+  cloud8.update();
+  motor_check();
+  // back motor
+  digitalWrite(IN1_PIN, HIGH); 
+  digitalWrite(IN2_PIN, LOW); 
+  // front motor
+  digitalWrite(IN3_PIN, LOW);  
+  digitalWrite(IN4_PIN, HIGH);
 }
 ```
 </details>

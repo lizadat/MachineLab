@@ -16,7 +16,7 @@ https://github.com/lizadat/MachineLab/assets/98390904/42473088-e598-4df1-a781-9b
 
 - We attached the whole skyline and also the LED. Connected two Arduino and wrote the code for it.
 
-![2](https://github.com/lizadat/MachineLab/assets/98390904/38483d88-5543-4dee-aacc-e4addb468bb4)
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/38483d88-5543-4dee-aacc-e4addb468bb4" width="50%" height="50%">
 
 
 This is the final result:
@@ -25,4 +25,13 @@ https://github.com/lizadat/MachineLab/assets/98390904/1c503610-cb01-4a0e-93a9-71
 
 
 - Last step: attached the Arduinos and the motor driver to the back for an easier transportation on Wednesday!
-![1](https://github.com/lizadat/MachineLab/assets/98390904/10233857-f104-4bfd-bc19-1abbc052fe94)
+
+<img src="https://github.com/lizadat/MachineLab/assets/98390904/10233857-f104-4bfd-bc19-1abbc052fe94" width="50%" height="50%">
+
+The only issue we have as of now, the time on two Arduino is running differently, so in the interval for each one should be twice smaller. For now we solved it by hardcoding. 
+
+Things to finish up:
+- code for the right interval for the show happening (how long it should run for)
+- paint the left car
+- paint the frame of the clouds and all the wires
+- combine the audio files into 1

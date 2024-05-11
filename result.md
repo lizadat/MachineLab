@@ -21,4 +21,7 @@ And me next to my project excited to press the YELLOW button to start it off!
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/665d508f-6954-4636-97aa-2de6e0cb3f5c" width="50%" height="50%">
 
 
-All prjects: https://youtube.com/shorts/pLpD_HR3fa8?feature=share
+We had to [move](https://youtube.com/shorts/FLdX-pwgpzU) our frame through the whole lobby and it was very fun, because it attracted many people! The frame is huge and nobody expected to see something like this! We gathered a big crowd on our way and brought them to the [opening](https://youtube.com/shorts/WuPb5EbwdrU)!
+Here is the [video](https://youtube.com/shorts/pLpD_HR3fa8?feature=share) of all projects. 
+
+

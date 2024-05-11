@@ -19,3 +19,6 @@ Here is our SkyRide (Cable car) installed in the frame and next to other project
 And me next to my project excited to press the YELLOW button to start it off!
 
 <img src="https://github.com/lizadat/MachineLab/assets/98390904/665d508f-6954-4636-97aa-2de6e0cb3f5c" width="50%" height="50%">
+
+
+All prjects: https://youtube.com/shorts/pLpD_HR3fa8?feature=share
